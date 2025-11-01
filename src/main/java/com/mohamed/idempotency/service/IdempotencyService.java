@@ -4,7 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mohamed.idempotency.entity.IdempotencyRecord;
 import com.mohamed.idempotency.repository.IdempotencyRecordRepository;
-import com.mohamed.idempotency.utils.utils.InMemoryCache;
+import com.mohamed.idempotency.utils.InMemoryCache;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

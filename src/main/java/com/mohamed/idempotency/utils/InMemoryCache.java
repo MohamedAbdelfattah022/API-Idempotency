@@ -1,4 +1,4 @@
-package com.mohamed.idempotency.utils.utils;
+package com.mohamed.idempotency.utils;
 
 import org.springframework.stereotype.Component;
 
